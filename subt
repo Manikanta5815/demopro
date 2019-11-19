@@ -1,0 +1,4 @@
+def subt():
+	a=input("enetr the num")
+	b=input("enetr thr num")
+	return a-b
